@@ -1,0 +1,14 @@
+Classification Problems:
+
+1. Text Analysis
+
+		a. Spam Detection
+		b. Fake News Detection
+		c. Sentiment Analysis(comment analysis, news, book review) - positive/negative/neutral
+		d. News Classification(siyasi, meiset, showbusiness, art, sport, qeyriadi)
+		e. Fraud Detection(saxtakarligin teyini)
+2. Image Classification
+3. Voice Recognition(Problemlerin classificationi, Sentiment Analysis)
+4. Medical Analysis
+		a. Cancer Detection
+		b. Dermanlarin tesirinin mueyyen olunmasi
